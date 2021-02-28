@@ -54,6 +54,7 @@
     <Compile Include="Task3\LevenshteinDistanceTests.cs" />
     <Compile Include="Task3\FuelTypeValidatorTests.cs" />
     <Compile Include="Task3\RegistrationValidatorTests.cs" />
+    <Compile Include="Task3\VehicleCsvBuilerTests.cs" />
     <Compile Include="Task4\FizzBuzzTest.cs" />
   </ItemGroup>
   <ItemGroup>
